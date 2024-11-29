@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.netmarble.sololv"
+#define GamePackageName "com.yanmiecn.trinitygears"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
