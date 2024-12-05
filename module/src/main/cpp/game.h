@@ -5,7 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.neowizgames.game.browndust2
-"
+#define GamePackageName "com.neowizgames.game.browndust2"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
